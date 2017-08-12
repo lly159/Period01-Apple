@@ -1716,6 +1716,14 @@ ul li{
         margin-top: 10px;
         font-size: 12px;
     }
+ .footer
+    {
+        height:550px;
+    }
+     .container h1
+     {
+        font-size: 25px;
+    }
 
     
 }
